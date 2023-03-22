@@ -59,6 +59,10 @@ h1 {
     font-size: 150px;
 }
 
+.grid-item a i:hover {
+    color: #229991;
+}
+
 @media (max-width: 650px) {
     
     h1 {
@@ -80,4 +84,10 @@ h1 {
 
 
 
+}
+
+.copy {
+    color: #FF4858;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
 }
